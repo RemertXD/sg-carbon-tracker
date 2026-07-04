@@ -142,7 +142,7 @@ def display_premium_route(response):
 
 @st.fragment
 def map_section():
-    st.title("Singapore Eco-Transit Footprint Router")
+    st.title("Personal Carbon Emission Calculator")
     st.markdown("Use the search boxes below, or activate a map tool to drop pins directly onto the map.")
 
     text_column, marker_column = st.columns([7, 3])
