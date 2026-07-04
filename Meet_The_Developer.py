@@ -7,17 +7,17 @@ st.markdown("---")
 
 col1, col2 = st.columns([3, 5])
 with col1:
-    st.image("me_photo.jpeg", use_container_width=True, caption="Rohan Jain")
+    st.image("me_photo.jpeg", use_container_width=True, caption="Rohan")
 
 with col2:
     st.markdown("### 👋 Hi There!")
     st.markdown(
         """
         <span style='font-size: 1.2rem; line-height: 1.6;'>
-        I am Rohan Jain, the developer of this website. I am a 15-year-old Grade 11 student 
+        I am Rohan, the developer of this website. I am a Grade 11 student 
         at Invictus International School who is passionate about Mathematics and Coding. 
         I love building software tools that apply data analytics and this is my first project 
-        which addresses real-world problems!
+        which addresses real-world problems! Feel free to contact me for any feedback or suggestions.
         
         Contact: jain2010rohan@gmail.com
         </span>
